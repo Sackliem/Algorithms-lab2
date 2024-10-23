@@ -1,0 +1,14 @@
+D:\IIT\algorithms\dev\ToH\Sponge\bin\Debug\Sponge.exe.config
+D:\IIT\algorithms\dev\ToH\Sponge\bin\Debug\Sponge.exe
+D:\IIT\algorithms\dev\ToH\Sponge\bin\Debug\Sponge.pdb
+D:\IIT\algorithms\dev\ToH\Sponge\obj\Debug\Sponge.csproj.AssemblyReference.cache
+D:\IIT\algorithms\dev\ToH\Sponge\obj\Debug\MainWindow.baml
+D:\IIT\algorithms\dev\ToH\Sponge\obj\Debug\MainWindow.g.cs
+D:\IIT\algorithms\dev\ToH\Sponge\obj\Debug\App.g.cs
+D:\IIT\algorithms\dev\ToH\Sponge\obj\Debug\Sponge_MarkupCompile.cache
+D:\IIT\algorithms\dev\ToH\Sponge\obj\Debug\Sponge.g.resources
+D:\IIT\algorithms\dev\ToH\Sponge\obj\Debug\Sponge.Properties.Resources.resources
+D:\IIT\algorithms\dev\ToH\Sponge\obj\Debug\Sponge.csproj.GenerateResource.cache
+D:\IIT\algorithms\dev\ToH\Sponge\obj\Debug\Sponge.csproj.CoreCompileInputs.cache
+D:\IIT\algorithms\dev\ToH\Sponge\obj\Debug\Sponge.exe
+D:\IIT\algorithms\dev\ToH\Sponge\obj\Debug\Sponge.pdb

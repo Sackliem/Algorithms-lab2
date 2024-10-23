@@ -1,0 +1,47 @@
+﻿<Window x:Class="Sponge.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Sponge"
+    Height="500" Width="500"
+    Loaded="Window_Loaded"
+    PreviewKeyDown="Window_KeyDown">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="63*"/>
+            <ColumnDefinition Width="62*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Grid.ColumnSpan="2" Background="White">
+            <Label Content="Depth:" />
+            <ComboBox Width="50" Name="cboDepth"
+                SelectionChanged="ComboBox_SelectionChanged">
+                <Label Content="1"/>
+                <Label Content="2"/>
+                <Label Content="3"/>
+                <Label Content="4"/>
+                <Label Content="5"/>
+                <Label Content="6"/>
+                <Label Content="7"/>
+                <Label Content="8"/>
+                <Label Content="9"/>
+                <Label Content="10"/>
+            </ComboBox>
+        </StackPanel>
+
+        <Viewport3D Grid.Row="1" Grid.Column="0" Name="MainViewport"
+            IsHitTestVisible="False" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2" OpacityMask="Black" >
+            <Viewport3D.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.604"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Viewport3D.RenderTransform>
+        </Viewport3D>
+    </Grid>
+</Window>

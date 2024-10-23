@@ -1,0 +1,31 @@
+E:\repository\iit\algorithms\dev\ToH\KochSnowflake\bin\Debug\KochSnowflake.exe.config
+E:\repository\iit\algorithms\dev\ToH\KochSnowflake\bin\Debug\KochSnowflake.exe
+E:\repository\iit\algorithms\dev\ToH\KochSnowflake\bin\Debug\KochSnowflake.pdb
+E:\repository\iit\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.csproj.AssemblyReference.cache
+E:\repository\iit\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.csproj.SuggestedBindingRedirects.cache
+E:\repository\iit\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.Form1.resources
+E:\repository\iit\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.Properties.Resources.resources
+E:\repository\iit\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.csproj.GenerateResource.cache
+E:\repository\iit\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.csproj.CoreCompileInputs.cache
+E:\repository\iit\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.exe
+E:\repository\iit\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.pdb
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\KochSnowflake\bin\Debug\KochSnowflake.exe.config
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\KochSnowflake\bin\Debug\KochSnowflake.exe
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\KochSnowflake\bin\Debug\KochSnowflake.pdb
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\KochSnowflake\obj\Debug\KochSnowflake.csproj.AssemblyReference.cache
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\KochSnowflake\obj\Debug\KochSnowflake.Form1.resources
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\KochSnowflake\obj\Debug\KochSnowflake.Properties.Resources.resources
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\KochSnowflake\obj\Debug\KochSnowflake.csproj.GenerateResource.cache
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\KochSnowflake\obj\Debug\KochSnowflake.csproj.CoreCompileInputs.cache
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\KochSnowflake\obj\Debug\KochSnowflake.exe
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\KochSnowflake\obj\Debug\KochSnowflake.pdb
+D:\IIT\algorithms\dev\ToH\KochSnowflake\bin\Debug\KochSnowflake.exe.config
+D:\IIT\algorithms\dev\ToH\KochSnowflake\bin\Debug\KochSnowflake.exe
+D:\IIT\algorithms\dev\ToH\KochSnowflake\bin\Debug\KochSnowflake.pdb
+D:\IIT\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.csproj.AssemblyReference.cache
+D:\IIT\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.Form1.resources
+D:\IIT\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.Properties.Resources.resources
+D:\IIT\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.csproj.GenerateResource.cache
+D:\IIT\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.csproj.CoreCompileInputs.cache
+D:\IIT\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.exe
+D:\IIT\algorithms\dev\ToH\KochSnowflake\obj\Debug\KochSnowflake.pdb

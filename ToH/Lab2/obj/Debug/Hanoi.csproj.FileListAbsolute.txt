@@ -1,0 +1,20 @@
+D:\IIT\algorithms\dev\ToH\Lab2\bin\Debug\Lab2.exe.config
+D:\IIT\algorithms\dev\ToH\Lab2\bin\Debug\Lab2.exe
+D:\IIT\algorithms\dev\ToH\Lab2\bin\Debug\Lab2.pdb
+D:\IIT\algorithms\dev\ToH\Lab2\obj\Debug\Hanoi.csproj.AssemblyReference.cache
+D:\IIT\algorithms\dev\ToH\Lab2\obj\Debug\Lab2.Form1.resources
+D:\IIT\algorithms\dev\ToH\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\IIT\algorithms\dev\ToH\Lab2\obj\Debug\Hanoi.csproj.GenerateResource.cache
+D:\IIT\algorithms\dev\ToH\Lab2\obj\Debug\Hanoi.csproj.CoreCompileInputs.cache
+D:\IIT\algorithms\dev\ToH\Lab2\obj\Debug\Lab2.exe
+D:\IIT\algorithms\dev\ToH\Lab2\obj\Debug\Lab2.pdb
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\Lab2\bin\Debug\Lab2.exe
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\Lab2\bin\Debug\Lab2.pdb
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\Lab2\obj\Debug\Hanoi.csproj.AssemblyReference.cache
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\Lab2\obj\Debug\Hanoi.csproj.GenerateResource.cache
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\Lab2\obj\Debug\Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\Lab2\obj\Debug\Lab2.exe
+C:\Users\gorya\Desktop\Work_VZ\Cложность алгоритмов\ToH\Lab2\obj\Debug\Lab2.pdb
